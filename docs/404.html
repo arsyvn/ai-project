@@ -1,0 +1,17 @@
+<!DOCTYPE html>
+<html>
+  <head>
+    <meta charset="utf-8">
+    <title>Redirecting...</title>
+    <script type="text/javascript">
+      // Get the current path, remove the base, and redirect to the root with the path as hash
+      var path = window.location.pathname;
+      var base = '/ai-project'; // Your GitHub Pages base path
+      var newPath = base + '/#' + path.substring(base.length);
+      window.location.replace(newPath);
+    </script>
+  </head>
+  <body>
+    If you are not redirected automatically, follow this <a href="/ai-project/">link to the main page</a>.
+  </body>
+</html>
