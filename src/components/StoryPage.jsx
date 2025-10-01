@@ -155,7 +155,7 @@ const StoryPage = () => {
             whileTap={{ scale: 0.95 }}
           >
             <Link
-              to="/process"
+              to="/ai-project/process"
               className="inline-block bg-white text-blue-600 px-8 py-4 rounded-full font-medium hover:bg-gray-50 transition-colors duration-300 shadow-lg"
             >
               View Behind the Scenes
