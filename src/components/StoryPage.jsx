@@ -4,6 +4,7 @@ import image2 from '../assets/1000068771.jpg'
 import image3 from '../assets/1000068772.jpg'
 import image4 from '../assets/1000068773.jpg'
 import image5 from '../assets/1000068774.jpg'
+import { Link } from 'react-router-dom'
 
 const StoryPage = () => {
   const storyParagraphs = [
@@ -153,12 +154,12 @@ const StoryPage = () => {
             whileHover={{ scale: 1.05 }}
             whileTap={{ scale: 0.95 }}
           >
-            <a
-              href="/process"
+            <Link
+              to="/process"
               className="inline-block bg-white text-blue-600 px-8 py-4 rounded-full font-medium hover:bg-gray-50 transition-colors duration-300 shadow-lg"
             >
               View Behind the Scenes
-            </a>
+            </Link>
           </motion.div>
         </div>
       </motion.section>
