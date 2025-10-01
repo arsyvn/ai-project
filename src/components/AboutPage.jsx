@@ -163,10 +163,7 @@ const AboutPage = () => {
                   explore the fascinating intersection between artificial intelligence and psychology.
                 </p>
                 <p>
-                  In 2025, I made the significant decision to move to Yerevan. Having loved Yerevan 
-                  since childhood, moving there was a dream come true, representing not just a change 
-                  of location, but a commitment to pursuing my passion for understanding and 
-                  developing AI technologies and fostering personal growth.
+                  In 2025, I made the significant decision to move to Yerevan. Having loved Yerevan since childhood, moving there was a dream come true, representing not just a change of location, but a commitment to pursuing my passion for understanding and developing AI technologies and fostering personal growth.
                 </p>
                 <p>
                   I enjoy activities that help me learn and improve my skills. This drive for continuous 
