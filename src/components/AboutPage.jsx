@@ -37,7 +37,7 @@ const AboutPage = () => {
     { year: "2008", event: "Born in Berd, Tavush, Armenia", icon: <Calendar className="w-4 h-4" /> },
     { year: "2010-2025", event: "Lived in Dzoraghbyur, Kotayq", icon: <MapPin className="w-4 h-4" /> },
     { year: "2024", event: "Joined Enterprise Incubator Foundation", icon: <Award className="w-4 h-4" /> },
-    { year: "2025", event: "Moved to Yerevan for education", icon: <BookOpen className="w-4 h-4" /> }
+    { year: "2025", event: "Moved to Yerevan (a childhood dream)", icon: <BookOpen className="w-4 h-4" /> }
   ]
 
   return (
@@ -163,9 +163,10 @@ const AboutPage = () => {
                   explore the fascinating intersection between artificial intelligence and psychology.
                 </p>
                 <p>
-                  In 2025, I made the significant decision to move to Yerevan to continue my education 
-                  and personal growth. This transition represents not just a change of location, but 
-                  a commitment to pursuing my passion for understanding and developing AI technologies.
+                  In 2025, I made the significant decision to move to Yerevan. Having loved Yerevan 
+                  since childhood, moving there was a dream come true, representing not just a change 
+                  of location, but a commitment to pursuing my passion for understanding and 
+                  developing AI technologies and fostering personal growth.
                 </p>
                 <p>
                   I enjoy activities that help me learn and improve my skills. This drive for continuous 
