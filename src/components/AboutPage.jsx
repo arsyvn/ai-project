@@ -225,7 +225,7 @@ const AboutPage = () => {
               <h3 className="text-xl font-medium text-gray-900 mb-4">Project Attribution</h3>
               <p className="text-gray-700 leading-relaxed mb-4">
                 This work was completed as part of an AI research project for the 
-                <span className="font-semibold text-blue-600"> AI4Youth Youth Chapter</span>, 
+                <span className="font-semibold text-blue-600"> AI4All Youth Chapter</span>, 
                 a collaborative initiative between the 
                 <span className="font-semibold text-emerald-600"> Enterprise Incubator Foundation (EIF)</span> 
                 and <span className="font-semibold text-blue-600">AmeriaBank</span>.

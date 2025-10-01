@@ -19,7 +19,7 @@ function Navigation() {
       <div className="max-w-7xl mx-auto px-6 py-5">
         <div className="flex items-center justify-between">
           <Link to="/" className="text-2xl font-light tracking-wide text-gray-900 hover:text-blue-600 transition-colors duration-300">
-            AI Story Portfolio
+            AI4All Youth Chapter
           </Link>
           <div className="flex space-x-10">
             {navItems.map((item) => (
